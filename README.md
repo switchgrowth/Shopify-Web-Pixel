@@ -15,7 +15,7 @@ The following instructions will walk you through installing web pixel code on a 
 
 5. Paste the script code from `web_pixel.js` file in this repository.
 
-6. Make sure to replace "GTM-XXXXXXX" with the proper GTM container ID for the store.
+6. Make sure to replace the value of the `gtmContainerId` constant from `"GTM-XXXXXXX"` with the proper GTM container ID for the store.
 
 ## Confirm Installation / Debugging
 
